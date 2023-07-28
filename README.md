@@ -5,3 +5,4 @@ The system first cleans the data and removes any null values. It then performs p
 The system can be used to #Cluster countries based on their HDI scores, #Visualize the clusters of countries, #Identify the countries that are most similar to each other
 The system is still under development, but it is already able to cluster countries with a high degree of accuracy. I plan to add more features to the system, such as the ability to predict future HDI scores for countries.
 I hope you find this system useful!
+How to reach me: If you have any questions or feedback, please feel free to contact me at [puja.professional.acc@gmail.com].
